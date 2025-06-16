@@ -3,4 +3,4 @@
   <img src="ttygroup-banner-light-theme.png">
 </picture>
 
-A collective of Textual creators making tools, widgets, and reusable UI components.
+A community for Textual creators making tools, widgets, and reusable UI components.
